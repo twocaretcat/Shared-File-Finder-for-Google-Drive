@@ -4,10 +4,10 @@
 
   <p class="projectBadges">
     <img src="https://johng.io/badges/category/Script.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/Shared-File-Finder-for-Google-Drive.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/Shared-File-Finder-for-Google-Drive.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/Shared-File-Finder-for-Google-Drive.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/Shared-File-Finder-for-Google-Drive.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/Shared-File-Finder-for-Google-Drive.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/Shared-File-Finder-for-Google-Drive.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
 

@@ -1,5 +1,5 @@
 /*
- * Shared File Finder for Google Drive | @jerboa88 | MIT | (https://github.com/jerboa88/Shared-File-Finder-for-Google-Drive).
+ * Shared File Finder for Google Drive | @twocaretcat | MIT | (https://github.com/twocaretcat/Shared-File-Finder-for-Google-Drive).
  */
 
 
